@@ -5,6 +5,8 @@ This analysis focuses on distinguishing good loans (Fully Paid, Current) and bad
 
 <img width="1205" height="678" alt="Image" src="https://github.com/user-attachments/assets/e61ea004-06b3-4d37-9634-106464859a06" />
 
+<img width="1203" height="650" alt="Image" src="https://github.com/user-attachments/assets/5df6f9da-b7c2-4a1b-8b47-91d37ed53b05" />
+
 
 
 
