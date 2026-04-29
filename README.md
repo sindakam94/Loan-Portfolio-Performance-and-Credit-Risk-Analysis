@@ -2,11 +2,11 @@
 
 Using Power BI, Excel, and SQL, I imported and analyzed the loan dataset to track loan applications and portfolio performance. The analysis revealed that the portfolio is profitable, with a $37M net inflow. However, this performance is significantly undermined by credit risk, with a 13.82% loan default rate and over $28M in unrecovered funds.Based on these findings, I recommend that the overwritting team implement few adjustments to improve recovery rates and overall portfolio performance.
 
-1.Strengthening credit checks, which can reduce default rates by approximately 26%
-2.Focusing immediate efforts on tightening credit approval processes
-3.Improving loan recovery strategies
-4.Reducing exposure to high-risk borrowers
-5.Shifting from aggressive loan growth to a risk-controlled lending strategy for sustainable profitability
+1. Strengthening credit checks, which can reduce default rates by approximately 26%
+2. Focusing immediate efforts on tightening credit approval processes
+3. Improving loan recovery strategies
+4. Reducing exposure to high-risk borrowers
+5. Shifting from aggressive loan growth to a risk-controlled lending strategy for sustainable profitability
 ## Business Problem
 
 The financial institution is experiencing strong loan growth and overall profitability ($435.76M disbursed vs $473.07M recovered). However, this performance is being undermined by a high default rate of 13.82%, resulting in over $28M in unrecovered funds from charged-off loans.
