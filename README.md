@@ -13,6 +13,9 @@ The financial institution is experiencing strong loan growth and overall profita
 How can the institution sustain loan portfolio growth and profitability while reducing the high default rate and minimizing financial losses through improved credit risk assessment, controlled lending strategies, and more effective loan recovery systems?
 
 <img width="1453" height="619" alt="Image" src="https://github.com/user-attachments/assets/afac4dc0-c3f4-4b85-a01c-c5b96ec15f57" />
+
+
+
 # Loan-Portfolio-Performance-and-Credit-Risk-Analysis
 This analysis focuses on distinguishing good loans (Fully Paid, Current) and bad loans (Charged Off) to understand portfolio health, repayment efficiency, and risk trends.
 ## <a href='https://github.com/sindakam94/Loan-Portfolio-Performance-and-Credit-Risk-Analysis/blob/main/Financial_Loan_data.pbix'>Power BI Dashboard
