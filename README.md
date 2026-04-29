@@ -21,7 +21,7 @@ How can the institution sustain loan portfolio growth and profitability while re
 
 ## <a href='https://github.com/sindakam94/Loan-Portfolio-Performance-and-Credit-Risk-Analysis/blob/main/Financial_Loan_data.pbix'>View dataset
 
-## Results/Recommendation
+## Results And Business Recommendation
 
 <img width="1204" height="673" alt="Screenshot 2026-04-29 202116" src="https://github.com/user-attachments/assets/3427263b-e779-4eff-bc33-98a9d3b49dbd" />
 
@@ -29,7 +29,6 @@ How can the institution sustain loan portfolio growth and profitability while re
 
 
 
-<img width="1175" height="671" alt="Image" src="https://github.com/user-attachments/assets/ee0ba3ca-5efb-47a8-9467-846879669381" />
 
 
 
