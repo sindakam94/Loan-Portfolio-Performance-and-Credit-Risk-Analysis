@@ -21,13 +21,13 @@ How can the institution sustain loan portfolio growth and profitability while re
 
 ## <a href='https://github.com/sindakam94/Loan-Portfolio-Performance-and-Credit-Risk-Analysis/blob/main/Financial_Loan_data.pbix'>View dataset
 
+## Results/Recommendation
+
+<img width="1204" height="673" alt="Screenshot 2026-04-29 202116" src="https://github.com/user-attachments/assets/3427263b-e779-4eff-bc33-98a9d3b49dbd" />
+
+<img width="1205" height="675" alt="Screenshot 2026-04-29 201816" src="https://github.com/user-attachments/assets/3a78b1c0-b14d-41e1-ae80-e34dbf5a7a9d" />
 
 
-This analysis focuses on distinguishing good loans (Fully Paid, Current) and bad loans (Charged Off) to understand portfolio health, repayment efficiency, and risk trends.
-
-<img width="1203" height="631" alt="Image" src="https://github.com/user-attachments/assets/9f7fff79-7cd8-4422-bbd9-1d7d362414f8" />
-
-<img width="1205" height="678" alt="Image" src="https://github.com/user-attachments/assets/e61ea004-06b3-4d37-9634-106464859a06" />
 
 <img width="1175" height="671" alt="Image" src="https://github.com/user-attachments/assets/ee0ba3ca-5efb-47a8-9467-846879669381" />
 
