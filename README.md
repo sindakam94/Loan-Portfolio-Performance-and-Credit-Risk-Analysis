@@ -25,17 +25,17 @@ How can the institution sustain loan portfolio growth and profitability while re
 
 Creating a Power BI dashboard helped stakeholders clearly see how the loan portfolio is performing. The data shows the business is making a $37.31M profit from $435.76M disbursed and $473.07M recovered, but this profit is at risk due to weak credit controls. A major issue is that loans approved before proper credit checks have a 15.8% default rate compared to 11.7%, making them much riskier and responsible for most losses. Loan growth is also increasing fast (2,332 to 4,314 applications) while bad loans are rising even faster (309 to 649), showing poor control during expansion. Borrowers with short job history contribute more to defaults, and recovery is weak, with only about $37M recovered out of $75M+ expected, meaning just 50% recovery. Risk is also higher among renters and certain locations, and although DTI is 13.33%, defaults remain high, showing it is not a strong risk indicator.the underwriting tem should make few adjustments as follows;
 
-1. Enforce proper credit checks before loan approval
+1. Enforce proper credit checks before loan approval.
      This can reduce defaults by 2–4% and save $10M–$20M in losses.
 2. Control loan growth with stricter approval rules during high-growth periods
-This will prevent bad loans from increasing faster than total loans.
-3. Introduce employment-based lending rules
+.This will prevent bad loans from increasing faster than total loans.
+3. Introduce employment-based lending rules.
    Set minimum job duration or adjust loan terms to reduce early defaults.
-4. Improve recovery strategies
+4. Improve recovery strategies.
    Analysis shows  better collection methods increase recovery from 50% to 60–65%, gaining an extra $7M–$10M.
-6. Apply segment-based lending (homeowners, renters, locations)
+6. Apply segment-based lending (homeowners, renters, locations).
       Focus more on stable borrowers to reduce risk and improve returns.
-7. Develop a better credit scoring system beyond DTI
+7. Develop a better credit scoring system beyond DTI.
 Include factors like employment tenure, loan purpose, and behavior to improve risk prediction.
 
 <img width="1204" height="673" alt="Screenshot 2026-04-29 202116" src="https://github.com/user-attachments/assets/3427263b-e779-4eff-bc33-98a9d3b49dbd" />
