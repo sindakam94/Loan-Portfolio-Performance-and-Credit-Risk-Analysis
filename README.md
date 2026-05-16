@@ -42,6 +42,10 @@ Include factors like employment tenure, loan purpose, and behavior to improve ri
 
 <img width="1205" height="675" alt="Screenshot 2026-04-29 201816" src="https://github.com/user-attachments/assets/3a78b1c0-b14d-41e1-ae80-e34dbf5a7a9d" />
 
+# Conclusion
+
+This project demonstrates how data analytics can uncover hidden operational and financial risks within a growing loan portfolio, enabling better risk management, improved lending decisions, and more sustainable financial performance
+
 
 
 
