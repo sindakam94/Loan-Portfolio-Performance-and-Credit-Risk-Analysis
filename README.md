@@ -47,9 +47,9 @@ Include factors like employment tenure, loan purpose, and behavior to improve ri
 This project demonstrates how data analytics can uncover hidden operational and financial risks within a growing loan portfolio, enabling better risk management, improved lending decisions, and more sustainable financial performance
 
 # Further Steps
-Build a predictive model to identify high-risk borrowers before loan approval.
-Improve loan recovery and collection strategies to reduce financial losses.
-Develop a more advanced credit scoring system using additional borrower risk factors.
+-Build a predictive model to identify high-risk borrowers before loan approval.
+-Improve loan recovery and collection strategies to reduce financial losses.
+-Develop a more advanced credit scoring system using additional borrower risk factors.
 
 
 
